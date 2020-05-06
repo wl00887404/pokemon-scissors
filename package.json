@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "puppeteer": "^3.0.3",
+    "serve": "^11.3.0"
+  },
+  "scripts": {
+    "start": "serve ."
+  }
+}
